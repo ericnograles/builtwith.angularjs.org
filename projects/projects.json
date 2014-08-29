@@ -3580,6 +3580,20 @@
         "No jQuery",
         "Bootstrap"
       ]
+    },
+	{
+      "name": "Proxy.gg",
+      "thumb": "proxy.gg/thumb.png",
+      "desc": "In eSports a 'Proxy' is a high risk - high reward strategy. Proxy.gg is a fantasy eSport platform for the top eSports around the world. Our goal is to provide eSport fans with fun games that are based on live events. Fans can earn virtual currency, level up, earn achievements and win prizes.",
+      "url": "https://www.proxy.gg",
+      "submitter": "ericnograles",
+      "submissionDate": "2014-08-29",
+      "tags": [
+        "Production",
+        "Game",
+        "Animations", "Local Storage", "Chart.js", "Angulartics", "ui.bootstrap"
+        "jQuery"
+      ]
     }
 
   ]
